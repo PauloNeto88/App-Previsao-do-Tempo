@@ -1,4 +1,4 @@
-const chaveDaApi = " 7826621bd582426f9ad235747232311";
+const chaveDaApi = " ";
 const botaoDeBusca = document.querySelector(".btn-busca");
 
 botaoDeBusca.addEventListener("click", async () => {
